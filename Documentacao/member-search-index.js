@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Porta","l":"getEntrada1()"},{"p":"<Unnamed>","c":"Porta","l":"getEntrada2()"},{"p":"<Unnamed>","c":"Porta","l":"getSaida()"},{"p":"<Unnamed>","c":"Porta","l":"Porta(boolean, boolean)","u":"%3Cinit%3E(boolean,boolean)"}];updateSearchResults();
